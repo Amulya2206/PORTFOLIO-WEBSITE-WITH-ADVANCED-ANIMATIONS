@@ -1,0 +1,5 @@
+<!-- simple AY initials favicon (SVG) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#064e3b"/>
+  <text x="50" y="54" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="46" fill="#a7f3d0" text-anchor="middle">AY</text>
+</svg>
