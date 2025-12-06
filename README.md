@@ -1,9 +1,14 @@
 # PORTFOLIO-WEBSITE-WITH-ADVANCED-ANIMATIONS
 COMPANY CODTECH IT SOLUTIONS
+
 NAME: YATHIPATHI AMULYA
+
 INTERN ID:  :CT04DR2165
+
 DOMAIIN: FULL STCK WEB DEVLOPMENT
+
 DURATION: 4 WEEKS
+
 MENTOR: NEELA SANTOSH
 
 A modern and visually appealing Personal Portfolio Website built using React + Vite, featuring GSAP animations, smooth transitions, and 3D effects using Three.js.
